@@ -35,9 +35,7 @@ hanburger.onclick = function () {
     }
 }
 
-guildsButton.onclick = function () {
-    removeCards()
-}
+
 
 function removeCards() {
     setTimeout(function () {
