@@ -50,7 +50,7 @@ function removeCards() {
 
     guilds.style.display = 'block'
     setTimeout(function () {
-        
+               guilds.style.opacity = '1' 
     }, 0)
     
 }
