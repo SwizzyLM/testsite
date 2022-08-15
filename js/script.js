@@ -48,10 +48,6 @@ function removeCards() {
         block.style.opacity = '0'
     }, 0)
 
-    guilds.style.display = 'block'
-    setTimeout(function () {
-               guilds.style.opacity = '1' 
-    }, 0)
 }
 
 pricesButton.onclick = function () {
