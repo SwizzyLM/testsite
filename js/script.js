@@ -69,7 +69,7 @@ function removeCards2() {
 
     guilds.style.display = 'block'
     setTimeout(function () {
-         prices.style.opacity = '1' 
+         guilds.style.opacity = '1' 
     }, 0)
 }
 
