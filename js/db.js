@@ -7,7 +7,7 @@ Tanuki
 &&
 https://discord.gg/BBdHn7wHvg
 --
-guild1.png
+guild1.gif
 --
 SAYA
 `;
