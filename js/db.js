@@ -5,11 +5,11 @@ guild2.gif
 --
 Tanuki
 &&
-https://discord.gg/bTebmcvGax
+https://discord.gg/BBdHn7wHvg
 --
 guild1.png
 --
-Heligate
+SAYA
 `;
 
 export {db} 
